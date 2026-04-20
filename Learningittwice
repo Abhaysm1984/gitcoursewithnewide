@@ -2,5 +2,4 @@ Hello this is the first code i am writing currently for the second phase of prac
 Now i am adding a second line to test the commit function.
 Now i am adding the third line whose commit i wil add to the github repo to see if the second local commit was added
 aswell..
-Now I am updating this file on the main branch as earlier i updated it in the newfeature branch to see mergeconflicts.
-Aooo janda ee.
+Now i will edit this file on the newfeature branch to see the mergeconflict.
